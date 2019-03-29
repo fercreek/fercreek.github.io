@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Contreras</title>
-    <link>https://fercreek.github.io/</link>
+    <link>https://blog.fercontreras.com/</link>
     <description>Recent content on Fernando Contreras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://fercreek.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.fercontreras.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://fercreek.github.io/about/</link>
+      <link>https://blog.fercontreras.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/about/</guid>
+      <guid>https://blog.fercontreras.com/about/</guid>
       <description>Me in 10 seconds Software engineer, bboy, dancer, and powerbuilder.
 I used to dance break dance, now I´m taking bachata and salsa lessons.
 Mexican living in Monterrey, Nuevo León, México.
@@ -25,37 +25,37 @@ I worked as a frontend developer for 2 years, and now I&amp;rsquo;m working as a
     
     <item>
       <title>Contact</title>
-      <link>https://fercreek.github.io/contact/</link>
+      <link>https://blog.fercontreras.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/contact/</guid>
+      <guid>https://blog.fercontreras.com/contact/</guid>
       <description>Mail: fercreek@gmail.com</description>
     </item>
     
     <item>
       <title>My Impossible List</title>
-      <link>https://fercreek.github.io/my-impossible-list/</link>
+      <link>https://blog.fercontreras.com/my-impossible-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/my-impossible-list/</guid>
+      <guid>https://blog.fercontreras.com/my-impossible-list/</guid>
       <description>TODO</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://fercreek.github.io/projects/</link>
+      <link>https://blog.fercontreras.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/projects/</guid>
+      <guid>https://blog.fercontreras.com/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>What I Am Doing Now</title>
-      <link>https://fercreek.github.io/now/</link>
+      <link>https://blog.fercontreras.com/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/now/</guid>
+      <guid>https://blog.fercontreras.com/now/</guid>
       <description>I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang.
 This is what I spend my time doing:
  Power building Taking bachata and salsa lessons Writing on my blog Reading books Eating better and being healthy  These are my main priorities right now.
