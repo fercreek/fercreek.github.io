@@ -16,9 +16,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://fercreek.github.io/about/</guid>
-      <description>Software engineer with extensive experience in new technologies. Experienced working as consultant and programmer of websites, planning and managing projects from scratch. Always looking for updates on new technologies to provide a good service.
-I constantly around the local tech scene, in the past, I organized a hackathon event in the UANL - FIME for students.
-Passionate about new technologies and sharing my expertise in the industry.</description>
+      <description>Me in 10 seconds Software engineer, bboy, dancer, and powerbuilder.
+I used to dance break dance, now I´m taking bachata and salsa lessons.
+Mexican living in Monterrey, Nuevo León, México.
+Me in 1 minute Software engineer with extensive experience in new technologies. Experienced working as consultant and programmer of websites, planning and managing projects from scratch. Always looking for updates on new technologies to provide a good service.
+I worked as a frontend developer for 2 years, and now I&amp;rsquo;m working as a backend developer until now.</description>
     </item>
     
     <item>
@@ -28,6 +30,15 @@ Passionate about new technologies and sharing my expertise in the industry.</des
       
       <guid>https://fercreek.github.io/contact/</guid>
       <description>Mail: fercreek@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>My Impossible List</title>
+      <link>https://fercreek.github.io/my-impossible-list/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fercreek.github.io/my-impossible-list/</guid>
+      <description>TODO</description>
     </item>
     
     <item>
@@ -41,11 +52,14 @@ Passionate about new technologies and sharing my expertise in the industry.</des
     
     <item>
       <title>What I Am Doing Now</title>
-      <link>https://fercreek.github.io/what-i-am-doing-now/</link>
+      <link>https://fercreek.github.io/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/what-i-am-doing-now/</guid>
-      <description></description>
+      <guid>https://fercreek.github.io/now/</guid>
+      <description>What I Am Doing Now I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang.
+This is what I spend my time doing:
+ Power building Taking bachata and salsa lessons Writing on my blog Reading books Eating better and being healthy  These are my main priorities right now.
+ Improving my dialy habits Deep understanding of Ruby and Golang  If my activities or priorities happen to change, I’ll update this page to reflect those changes.</description>
     </item>
     
   </channel>
