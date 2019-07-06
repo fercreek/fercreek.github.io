@@ -2,43 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Contreras</title>
-    <link>https://fercreek.github.io/</link>
+    <link>https://blog.fercontreras.com/</link>
     <description>Recent content on Fernando Contreras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://fercreek.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.fercontreras.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About Hugo</title>
-      <link>https://fercreek.github.io/about/</link>
+      <title>About me</title>
+      <link>https://blog.fercontreras.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <guid>https://blog.fercontreras.com/about/</guid>
+      <description>Me in 10 seconds Software engineer, dancer and writer by hobby
+I used to dance break dance, now I´m taking bachata and salsa lessons.
+Mexican living in Monterrey, Nuevo León, México.
+Me in 1 minute Software engineer with extensive experience in new technologies. Experienced working as consultant and programmer of websites, planning and managing projects from scratch. Always looking for updates on new technologies to provide a good service.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://fercreek.github.io/contact/</link>
+      <link>https://blog.fercontreras.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/contact/</guid>
+      <guid>https://blog.fercontreras.com/contact/</guid>
       <description>Mail: fercreek@gmail.com</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://fercreek.github.io/projects/</link>
+      <title>My Impossible List</title>
+      <link>https://blog.fercontreras.com/my-impossible-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://fercreek.github.io/projects/</guid>
+      <guid>https://blog.fercontreras.com/my-impossible-list/</guid>
+      <description> Last 5 Completed Goals  ✅ DevOps course by Cero Uno (November 2019) ✅ Danced in a hip hop and reggaeton presentation ✅ BB Back squat 165 lbs ✅ BB Romanian Deadlift 165 lbs ✅ BB Hip thrust 155 lbs ✅ Be a great dancer in bachata and salsa  Current Focuses  Gain more muscle mass Improve productivity doing more in less time  Fitness/Health Goals  73 Kgs Back Squat 225 lbs Romanian Deadlift 225 lbs BB row 225 lbs Acrobatic  Back flip Side flip Aerial  Aerial dance Break dance  5 flares Airtrack   Professional Goals  Earn 100k in one year Contribute to open source community Get 100 blog visits, all time Be the CTO of a startup  Habit Goals  Read 20 pages a day  Creative Goals  Write a book Play the guitar Learn how to make electronic music Record a guitar song  Skills Goals  Become fluent in English Become fluent in French Become fluent in Italian ✅ Learn Bachata ✅ Learn Salsa  Fun and/or &amp;ldquo;Insane&amp;rdquo; Goals  Bungee jump Do snorkel Skydiving Surf  Events to attend  TODO  Video Game Goals  Finish at 100% Kingdom Hearts Finish at 100% Devil May Cry 5  Travel Goals ✅ Check-in  México  CDMX Toluca Chihuahua Puerto Vallarta Guadalajara Oaxaca Hidalgo Playa del Carmen Mazatlan Los Cabos  France, Paris United Kingdom  London Gibraltar  Netherlands, Amsterdam Germany  Berlin Frankfurt  Portugal  Lisboa Oporto  Spain  Barcelona Madrid Oviedo Bilbao Pajares Gijon Galicia Granada Sevilla Malaga León  Belgium  Brussels Bruges  Luxembourg, Luxembourg Czech republic  Prague Náchod  Poland  Warsaw Lublin  Hungary, Budapest Italy  Venice Parma Florence Pisa Rome   To-do Check-in  Zacatecas, Zacatecas León, Guanajuato  Live for a while in  Poland France Italy  Life Goals  Read 100 books Have a software consulting Have many active incomes Work for fun, not for money  </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://blog.fercontreras.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.fercontreras.com/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>What I Am Doing Now</title>
+      <link>https://blog.fercontreras.com/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.fercontreras.com/now/</guid>
+      <description>I´m in Monterrey, Nuevo León, learning to dance bachata and salsa. Improving my knowledge in Ruby, Python, and Golang. Lead Software Engineer in SysCap SysCap
+This is what I spend my time doing:
+ Power building Taking bachata and salsa lessons Writing on my blog Reading books Eating better and being healthy  These are my main priorities right now.
+ Improving my dialy habits Deep understanding of Ruby and Golang Doing more in less time  If my activities or priorities happen to change, I’ll update this page to reflect those changes.</description>
     </item>
     
   </channel>

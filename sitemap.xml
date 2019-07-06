@@ -3,30 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fercreek.github.io/about/</loc>
+    <loc>https://blog.fercontreras.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://fercreek.github.io/categories/</loc>
+    <loc>https://blog.fercontreras.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fercreek.github.io/contact/</loc>
+    <loc>https://blog.fercontreras.com/contact/</loc>
   </url>
   
   <url>
-    <loc>https://fercreek.github.io/</loc>
+    <loc>https://blog.fercontreras.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://fercreek.github.io/projects/</loc>
+    <loc>https://blog.fercontreras.com/my-impossible-list/</loc>
   </url>
   
   <url>
-    <loc>https://fercreek.github.io/tags/</loc>
+    <loc>https://blog.fercontreras.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.fercontreras.com/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.fercontreras.com/now/</loc>
   </url>
   
 </urlset>
