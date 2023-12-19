@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blog.fercontreras.com/about/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/my-impossible-list/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/projects/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blog.fercontreras.com/now/</loc>
   </url>
-  
 </urlset>
