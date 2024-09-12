@@ -2,34 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/hello/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/hello/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/markdown-cheat-sheet/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/my-impossible-list/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
+    <loc>https://blog.fercontreras.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/whatsapp/</loc>
-    <lastmod>2022-08-27T09:16:45+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/css/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/javascript/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/uncategories/</loc>
+    <loc>https://blog.fercontreras.com/now/</loc>
   </url>
 </urlset>
