@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fernando Contreras</title>
-    <link>https://fercontreras.com/</link>
+    <link>https://blog.fercontreras.com/</link>
     <description>Recent content on Fernando Contreras</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://fercontreras.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.fercontreras.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://fercontreras.com/about/</link>
+      <link>https://blog.fercontreras.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fercontreras.com/about/</guid>
+      <guid>https://blog.fercontreras.com/about/</guid>
       <description>Snapshot of Me I&amp;rsquo;m a software engineer, dancer, trader, and hobbyist writer.&#xA;Formerly a break dancer, I now compete in bachata and salsa. I&amp;rsquo;m a Mexican, residing in Monterrey, Nuevo León, México.&#xA;A Closer Look I have experience as a consultant and web programmer, adept at planning and managing projects from inception to completion.&#xA;My professional focus is backend development with Ruby on Rails. In my leisure time, I compete in bachata and salsa dancing.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://fercontreras.com/contact/</link>
+      <link>https://blog.fercontreras.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fercontreras.com/contact/</guid>
+      <guid>https://blog.fercontreras.com/contact/</guid>
       <description>Mail: fercreek@gmail.com</description>
     </item>
     <item>
       <title>My Impossible List</title>
-      <link>https://fercontreras.com/my-impossible-list/</link>
+      <link>https://blog.fercontreras.com/my-impossible-list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fercontreras.com/my-impossible-list/</guid>
+      <guid>https://blog.fercontreras.com/my-impossible-list/</guid>
       <description>Last Completed Goals ✅ Have many active incomes ✅ Work for fun, not for money Current Focuses ✅ Learn about blockchain and finances Improve productivity doing more in less time ✅ Invest money in a potential product/business Fitness/Health Goals Pull Ups - 10 Chin Ups - 12 Dips - 15 Bench press ✅ 135 lbs (November 2019) ✅ 175 lbs (November 2023) Back Squat ✅ 185 lbs (September 2019) ✅ 225 lbs (November 2019) Romanian Deadlift ✅ 225 lbs (September 2019) 260 lbs BB row 225 lbs BB Hip thrust ✅ 155 lbs (September 2019) Acrobatic Back flip Side flip Aerial Dance Goals Break dance 5 flares Airtrack ✅ Dance in a salsa choreography (November 2019) ✅ Dance in a hip hop and reggaeton presentation (February 2019) ✅ Salsa/Bachata choreography with partner (Euroson)(December 2021) ✅ Solo Bachata choreography (Mambolee ONE) (February 2022) ✅ Solo Salsa choreography (Mambolee ONE) (February 2022) ✅ First place on a competition as a soloist (February 2023) First place on a competition as an amateur soloist Professional Goals ✅ DevOps course by Cero Uno (November 2019) Earn ✅ 100k MXN in one year ✅ 100k MXN in one year in passive incomes ✅ 1k USD monthly doing trade ✅ 5k USD monthly doing trade Contribute to open source community Get 100 blog visits, all time ✅ Be the CTO of a startup (2021) Business Goals Have a barbershop E-commerce Software running online ✅ Vayla (May) ✅ Studio Link Habit Goals Read 20 pages a day Creative Goals Write a book Play the guitar Learn how to make electronic music Record a guitar song Skills Goals Become fluent in English Become fluent in French Become fluent in Italian ✅ Learn Bachata ✅ Learn Salsa Fun and/or &amp;ldquo;Insane&amp;rdquo; Goals ✅ Bungee jump ✅ Do snorkel (August) Skydiving Surf Events to attend ✅ Timbal Latin Dance Congress Mty 2019 Video Game Goals Finish at 100% Kingdom Hearts Finish at 100% Devil May Cry 5 Travel Goals ✅ Check-in México CDMX Toluca Chihuahua Puerto Vallarta Guadalajara Oaxaca Hidalgo Playa del Carmen Mazatlan Los Cabos Zapopan Tampico San Luis Potosi Puebla Huatulco Campeche United States Little Rock France, Paris United Kingdom London Gibraltar Netherlands, Amsterdam Germany Berlin Frankfurt Portugal Lisboa Oporto Spain Barcelona Madrid Oviedo Bilbao Pajares Gijon Galicia Granada Sevilla Malaga León Belgium Brussels Bruges Luxembourg, Luxembourg Czech republic Prague Náchod Poland Warsaw Lublin Hungary, Budapest Italy Venice Parma Florence Pisa Rome To-do Check-in Zacatecas, Zacatecas León, Guanajuato La Habana, Cuba Cali, Colombia Live for a while in Poland France Italy Life Goals ✅ Have many active incomes ✅ Work for fun, not for money Read 100 books Have a software consulting Be an investor </description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://fercontreras.com/projects/</link>
+      <link>https://blog.fercontreras.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fercontreras.com/projects/</guid>
+      <guid>https://blog.fercontreras.com/projects/</guid>
       <description>Studio Link Studio Link is your all-in-one income and records manager designed for academies and gyms. Simplify your business management and effortlessly keep track of client payments.&#xA;Explore more at Studio Link.&#xA;Vayla Vayla Dance redefines dance competitions by making event organization seamless and empowering competitors to shine. Our cutting-edge scoring and judging system transforms how you manage dance events, tailored specifically for communities passionate about dance.&#xA;Discover details at Vayla Dance.</description>
     </item>
     <item>
       <title>What I Am Doing Now</title>
-      <link>https://fercontreras.com/now/</link>
+      <link>https://blog.fercontreras.com/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fercontreras.com/now/</guid>
+      <guid>https://blog.fercontreras.com/now/</guid>
       <description>Currently residing in Monterrey, Nuevo León, I am immersing myself in the world of cryptocurrencies, investment, and data analytics.&#xA;Here&amp;rsquo;s a snapshot of my current activities:&#xA;Working on Buk as a senior backend developer Developing Studio Link and Vayla Dance as side projects Engaging in crypto trading and investment Dancing bachata and salsa regularly These are my primary focuses at the moment:&#xA;Enhancing my dance skills Refining my daily habits Becoming a profitable trader Learning to delegate effectively and make informed decisions at work Increasing productivity to achieve more in less time This page will be updated to reflect any changes in my activities or priorities.</description>
     </item>
   </channel>
